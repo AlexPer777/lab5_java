@@ -97,7 +97,7 @@
 Нужны JDK 21 и Maven 3.
 
 ```bash
-git clone https://github.com/AlexPer777/lab_5.git lab5_java
+git clone https://github.com/AlexPer777/lab5_java.git lab5_java
 cd lab5_java
 mvn clean package
 java -jar target/lab5_java-1.0-SNAPSHOT.jar collection.json
